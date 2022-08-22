@@ -285,7 +285,7 @@ Index->Freshen All Files
 
 <img src="/image/image-20220822074942350.png" alt="image-20220822074942350.png" />
 
-![image-20220822074956665](C:\Users\bill\Desktop\eclipse-arm\image\image-20220822074956665.png)
+<img src="/image/image-20220822074956665.png" alt="image-20220822074956665.png" />
 
 
 
